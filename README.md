@@ -20,8 +20,9 @@ This repository contains Python scripts for fetching data from various sources, 
 - Install the required libraries using:
  ```bash
 pip install requests
-python twitter_data_fetch.py
+python Twitter_data_featching.py
 pip install requests beautifulsoup4
-python website_data_scrape.py
+python web_scaper.py
+Scraping_youtube_video.py
 
 
